@@ -26,3 +26,9 @@ Built using Tableau, this dashboard includes several interactive views:
 ## 🖼️ Dashboard Preview
 
 ![Netflix Dashboard Screenshot](screenshots/netflix_dashboard.png)
+
+---
+
+## 🤝 Let’s Connect
+
+📍 [LinkedIn](https://www.linkedin.com/in/aojueromi)
