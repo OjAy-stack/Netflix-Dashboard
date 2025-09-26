@@ -15,11 +15,21 @@ Built using Tableau, this dashboard includes several interactive views:
 - **Release Trends**: Content released across years and growth patterns.  
 - **Country Distribution**: Visualises where Netflix content originates from.
 
+## 📁 Key Insights
+
+- 🎬 **Movies vs TV Shows**: Movies make up 68.42% (4,265), while TV Shows are 31.58% (1,969).
+- ⭐ **Ratings**: Most common ratings are **TV-MA** and **TV-14**, showing a strong focus on adult and teen audiences.
+- 📺 **Top Genres**: Documentaries (299), Stand-Up Comedy (273), Dramas – International & Independent, and Children & Family Movies are the most popular.
+- 🌍 **Country Spread**: Strong presence in the United States and India.
+- 📈 **Yearly Growth**: Huge growth after 2015, peaking between 2017–2019. TV Shows grew rapidly during this period.
+- 🎥 **Example Highlight**: *2 States* (2014, TV-PG) reflects Netflix’s investment in international/romantic dramas to appeal to global audiences.
+
 ## 🛠️ Tools Used
 
-- **Tableau Public** (Interactive dashboard & visualisation)  
-- **CSV Dataset** (Netflix titles data)  
-- **Excel** (Data cleaning and preprocessing)  
+- **Tableau Public**
+  - Interactive Visualizations
+  - Slicers & Filters
+- **Excel/CSV** (Data Source)
 
 ---
 
