@@ -29,6 +29,16 @@ Built using Tableau, this dashboard includes several interactive views:
 
 ---
 
+## 📁 Files in this Repo
+
+| File | Description |
+|------|-------------|
+| `Netflix-Dashboard.png` | Screenshot of the Tableau Netflix Dashboard |
+| `netflix_titles.csv` | Netflix csv dataset |
+| `README.md` | Project Summary (you’re reading it!) |
+
+---
+
 ## 🤝 Let’s Connect
 
 📍 [LinkedIn](https://www.linkedin.com/in/aojueromi)
